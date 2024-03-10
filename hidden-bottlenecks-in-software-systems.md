@@ -12,7 +12,7 @@ Limited functionality of a key operation in a system results in hidden operation
   The image below provides an abstract representation [not entirely accurate] of this issue.
 </p>
 
-![image](https://github.com/MaysamPx/performance-obstacles-in-software-systems/assets/13215181/8c02e30a-90b4-49b8-9e7b-175c75157baa)
+<center> ![image](https://github.com/MaysamPx/performance-obstacles-in-software-systems/assets/13215181/8c02e30a-90b4-49b8-9e7b-175c75157baa) </center>
 
 <p>
 The main reason for this type of problem is the cascaded hiding of bottlenecks behind the main operations. Until the number of orders is not high, the metrics of "basket loads per unit time" and "successful payment returns per unit time" will not experience high traffic, making it difficult to feel their delays separately.
