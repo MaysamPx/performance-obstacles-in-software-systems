@@ -9,3 +9,5 @@ For instance, a large accounting system may feature a powerful processing core f
 
 
 [Memory leak, turning memory latency into an actual bottleneck](https://github.com/MaysamPx/performance-obstacles-in-software-systems/blob/51e7fae441e5a722ef27e5c0d7809e7b7a8780c6/Memory%20leak%20-%20turning%20memory%20latency%20into%20an%20actual%20bottleneck.md)
+
+[Thread blocking in synchronous processing of incoming requests from a web server](https://github.com/MaysamPx/performance-obstacles-in-software-systems/blob/8b47b91d973c6c7b7dd802ef894b1364c4d60d3b/Blocked%20threads%20in%20synchronous.md)
