@@ -31,6 +31,7 @@ This issue, if not addressed properly, can lead to a system failure over time gr
 </p>
 
 Some examples of potential issues that may arise:
+
 https://www.baeldung.com/java-memory-leaks
 
 https://stackify.com/memory-leaks-java/
