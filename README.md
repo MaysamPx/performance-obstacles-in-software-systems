@@ -30,4 +30,8 @@ This issue, if not addressed properly, can lead to a system failure over time gr
   As an example, consider a Java application that acts as a proxy component in a telecommunications system between two other applications, processing any streaming data passing through and adding a series of metadata or payloads to the end of data packets. Assume that all processing is also in-memory and the disk is not involved. In this scenario, with only a minor issue in memory management and failure to manually release resources that the GC is unable to recognize (such as unclosed resources, static fields, and other issues in Java), memory can turn into a bottleneck.
 </p>
 
-Here (<a src="https://www.baeldung.com/java-memory-leaks"> +link </a> and +link), we provide some examples of potential issues that may arise.
+Some examples of potential issues that may arise:
+https://www.baeldung.com/java-memory-leaks
+
+https://stackify.com/memory-leaks-java/
+
