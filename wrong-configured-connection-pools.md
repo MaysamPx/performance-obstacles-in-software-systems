@@ -13,6 +13,6 @@ Generally, it's not uncommon to encounter situations where a high-performing app
 
 [In this blog post, an example of this issue has been presented.](https://medium.com/@kyle_martin/mongodb-in-production-how-connection-pool-size-can-bottleneck-application-scale-439c6e5a8424)
 
-<p>
+
   In this [blog](https://highscalability.com/big-list-of-20-common-bottlenecks), a good classification of 20 common types of bottlenecks in various layers, including processors, disks, main memory, databases, caching frameworks, networks, etc., has been provided. Each of them has its details and specific features.
-</p>
+
