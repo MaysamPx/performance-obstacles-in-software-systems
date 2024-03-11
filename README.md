@@ -1,5 +1,5 @@
 # Five performance obstacles in software systems
-I'm going to discuss about five limitations and obstacles that cause slowdowns in software systems (based on actual cases)
+I'm going to discuss about five limitations and obstacles that cause slowdowns in software systems (based on actual cases).
 
 
 <p> Efficiency is a critical consideration when dealing with resource limitations in software systems. These constraints, which are typically present in most systems, including hardware and software aspects such as disk, processor, and main memory, can restrict the performance of the overall system or a critical subsystem moment by moment or continuously. In the context of software systems, components that impede performance in this way are commonly referred to as bottlenecks.
