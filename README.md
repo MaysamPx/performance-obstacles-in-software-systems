@@ -16,3 +16,4 @@ For instance, a large accounting system may feature a powerful processing core f
 - [Hidden bottlenecks](https://github.com/MaysamPx/performance-obstacles-in-software-systems/blob/617efbdc711f8335e335101f56b5f6ffa3b8faf2/hidden-bottlenecks-in-software-systems.md)
 
 - [Wrong configuration and low efficiency of the connection pool](https://github.com/MaysamPx/performance-obstacles-in-software-systems/blob/0ff90513056160fa6668e77cfa5185cbfee384fe/wrong-configured-connection-pools.md)
+- Lack of index to cover the queries
