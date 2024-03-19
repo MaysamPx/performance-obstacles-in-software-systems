@@ -1,10 +1,10 @@
 # Five performance obstacles in software systems
 I'm going to discuss five limitations and obstacles that cause slowdowns in software systems (based on actual cases).
-[Transferring external APIs delay to the system](#transferring-external-APIs-delay-to-the-system)
-[Memory leak turning memory latency into an actual bottleneck](#memory-leak-turning-memory-latency-into-an-actual-bottleneck)
-[Blocked threads in synchronous processing](#blocked-threads-in-synchronous-processing)
-[Hidden bottlenecks](#hidden-bottlenecks)
-[Wrong assumptions in configurations](#wrong-assumptions-in-configurations)
+- [Transferring external APIs delay to the system](#transferring-external-APIs-delay-to-the-system)
+- [Memory leak turning memory latency into an actual bottleneck](#memory-leak-turning-memory-latency-into-an-actual-bottleneck)
+- [Blocked threads in synchronous processing](#blocked-threads-in-synchronous-processing)
+- [Hidden bottlenecks](#hidden-bottlenecks)
+- [Wrong assumptions in configurations](#wrong-assumptions-in-configurations)
 
 
 <p> Efficiency is a critical consideration when dealing with resource limitations in software systems. These constraints, which are typically present in most systems, including hardware and software aspects such as disk, processor, and main memory, can restrict the performance of the overall system or a critical subsystem moment by moment or continuously. In the context of software systems, components that impede performance in this way are commonly referred to as bottlenecks.
